@@ -1,0 +1,23 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Logs de execução e caches
+logs/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+
+# Vídeo (artefatos gerados)
+video/work/
+video/*.mp4
+video/.venv/
